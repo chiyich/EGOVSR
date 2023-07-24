@@ -8,7 +8,7 @@ Yichen Chi, Junhao Gu, Jiamiao Zhang, Wenming Yang, Yapeng Tian
 
 [Arxiv](https://arxiv.org/abs/2305.14708)
 
-./Egovsr_demo.mp4
+https://github.com/chiyich/EGOVSR/raw/main/Egovsr_demo.mp4
 
 ## Installation
 This work is based on the MMEditing (now MMagic) framework. Thanks to OpenMMLab.
