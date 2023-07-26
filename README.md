@@ -58,6 +58,7 @@ Or test:
 ```shell
 python tools/test.py configs/egovsr/egovsr_reds.py experiments/egovsr/iter_250000.pth --save-path work_dirs/results/
 ```
+We use [PIRM2018](https://github.com/roimehrez/PIRM2018) code to evaluate all metrics.
 
 ## Contributing
 
